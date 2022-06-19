@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title> Swain's World </title>
+		<link rel="stylesheet" href="mystyle.css">
+
+	</head>
+
+	<body>
+		<header> Micah and Harvey's World </header>
+
+		<button> Swain's Hobby 1 </button>
+		<br>
+		<button> Swain's Hobby 2 </button>
+		<br>
+		<button> Swain's Hobby 3 </button>
+
+		<div id="hobby1" >
+			<h1> My First Hobby </h1>
+			<details>
+				<summary> Hobby 1 </summary>
+				<p> Explanation of hobby 1 </p>
+			</details>
+
+			<img src="images/Braves.png" alt="Atlanta Braves" width="300px" >
+		</div>
+
+		<div id="hobby2" >
+			<h1> My Second Hobby </h1>
+			<details>
+				<summary> Hobby 2 </summary>
+				<p> Explanation of hobby 2 </p>
+			</details>
+
+			<img src="images/books.jpeg" alt="Reading" width="300px" >
+		</div>
+		
+	</body>
+</html>

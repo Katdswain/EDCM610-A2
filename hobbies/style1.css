@@ -1,0 +1,69 @@
+
+body {
+  background-color: white;
+  text-align: center;
+
+}
+
+h1 {
+  color: navy;
+  background-color: lightgray;
+  text-align: center;
+  border: 2px solid navy;
+}
+
+header { 
+  color: navy;
+  background-color: lightgray;
+  font-family: Bradley Hand ITC;
+  font-size: 60px;
+  text-align: center;
+  font-weight: bold;
+}
+
+footer {
+  font-family: verdana;
+  font-size: 10px;
+  text-align: center;
+}
+
+details {
+  color: navy;
+  font-family: Bradley Hand ITC;
+  font-size: 30px;
+  text-align: center;
+}
+
+button {
+  background-color: gray
+  border: 2px solid navy;
+  color: navy;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+a {
+color: navy;
+  font-family: Bradley Hand ITC;
+  font-size: 20px;
+  text-align: center;
+}
+
+div {
+  width: 1150px;
+  border: 15px solid navy;
+  padding: 50px;
+  margin: 20px;
+}
+
+summary {
+  text-shadow: 2px 2px 5px lightgray;
+}
+
+img {
+ opacity: 0.85;
+}

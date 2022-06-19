@@ -1,0 +1,70 @@
+
+body {
+  background-color: lemonchiffon;
+  text-align: center;
+
+}
+
+h1 {
+  color: darkslategray;
+  background-color: none;
+  text-align: center;
+  font-family: britannic;
+}
+
+header { 
+  color: darkslategray;
+  background-color: paleturquoise;
+  font-family: Times New Roman;
+  font-size: 100px;
+  text-align: center;
+  font-weight: bold;
+}
+
+footer {
+  font-family: bradley hand itc;
+  font-size: 14px;
+  text-align: center;
+  color: darksalmon;
+}
+
+details {
+  color: darkslategray;
+  font-family: Times New Roman;
+  font-size: 20px;
+  text-align: center;
+}
+
+button {
+  background-color: lightsalmon;
+  border: lightpurple;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  font-size: 40px;
+}
+
+a {
+color: darksalmon;
+  font-family: Times New Roman;
+  font-size: 30px;
+  text-align: center;
+}
+
+div {
+  width: 800px;
+  border: none;
+  padding: 15px;
+  margin: auto;
+}
+
+summary {
+  text-shadow: 2px 2px 5px lightsalmon;
+  text-align: center;
+}
+
+img {
+ opacity: 0.9;
+}
