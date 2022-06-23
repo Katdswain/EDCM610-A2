@@ -68,3 +68,15 @@ summary {
 img {
  opacity: 0.9;
 }
+
+#hobby1 {
+   background-color: lightgray;
+}
+
+#hobby2 {
+   background-color: white;
+}
+
+#hobby3 {
+   background-color: paleturquoise;
+}

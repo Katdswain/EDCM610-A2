@@ -67,3 +67,15 @@ summary {
 img {
  opacity: 0.85;
 }
+
+#hobby1 {
+   border: 15px solid navy
+}
+
+#hobby2 {
+   border: 15px solid darkred
+}
+
+#hobby3 {
+   border: 15px solid gold
+}
